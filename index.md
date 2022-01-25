@@ -275,6 +275,10 @@ Edit the text to match who can attend the workshop. For instance:
     This workshop is open to the public. However, priority will be given to Carnegie Mellon University affiliates.
 </p>
 
+<p id="register-link">
+    <strong> Registration Link:</strong> <a href="https://www.eventbrite.com/e/genomics-data-carpentry-workshop-cmu-tickets-246960775327"> register on Eventbrite</a> 
+
+</p>
 
 <hr/>
 
